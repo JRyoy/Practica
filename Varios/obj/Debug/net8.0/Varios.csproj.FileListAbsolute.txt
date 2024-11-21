@@ -1,0 +1,11 @@
+C:\Users\Josbert\Desktop\Practica\Varios\bin\Debug\net8.0\Varios.deps.json
+c:\Users\Josbert\Desktop\Practica\Varios\bin\Debug\net8.0\Varios.dll
+c:\Users\Josbert\Desktop\Practica\Varios\bin\Debug\net8.0\Varios.pdb
+c:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\Varios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\Varios.AssemblyInfoInputs.cache
+c:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\Varios.AssemblyInfo.cs
+c:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\Varios.csproj.CoreCompileInputs.cache
+c:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\Varios.dll
+c:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\refint\Varios.dll
+c:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\Varios.pdb
+C:\Users\Josbert\Desktop\Practica\Varios\obj\Debug\net8.0\ref\Varios.dll
