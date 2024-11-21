@@ -25,10 +25,10 @@ public class Vendedor
     {   
         var t=Ventas.Sum(x=>x.Precio);
         Total=t;
-        System.Console.WriteLine($"Nombre del Vendedor{Nombre},Total de Ventas{Total}");
+        System.Console.WriteLine($"Nombre del Vendedor: {Nombre},Total de Ventas: {Total}");
         foreach (var item in Ventas)
         {
-            System.Console.WriteLine($"precio de cada venta: {item}");
+            System.Console.WriteLine($"precio de cada venta: {item.Precio}");
         }
     }
 

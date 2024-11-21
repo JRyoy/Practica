@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josbert\\Desktop\\Practica\\Aplicacion\\Aplicacion.csproj": {}
+    "/home/et12alumno/Documentos/Practica/Aplicacion/Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josbert\\Desktop\\Practica\\Aplicacion\\Aplicacion.csproj": {
+    "/home/et12alumno/Documentos/Practica/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josbert\\Desktop\\Practica\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "/home/et12alumno/Documentos/Practica/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\Josbert\\Desktop\\Practica\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\Josbert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josbert\\Desktop\\Practica\\Aplicacion\\obj\\",
+        "projectPath": "/home/et12alumno/Documentos/Practica/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/et12alumno/.nuget/packages/",
+        "outputPath": "/home/et12alumno/Documentos/Practica/Aplicacion/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Josbert\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/et12alumno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Josbert\\Desktop\\Practica\\Varios\\Varios.csproj": {
-                "projectPath": "C:\\Users\\Josbert\\Desktop\\Practica\\Varios\\Varios.csproj"
+              "/home/et12alumno/Documentos/Practica/Varios/Varios.csproj": {
+                "projectPath": "/home/et12alumno/Documentos/Practica/Varios/Varios.csproj"
               }
             }
           }
@@ -43,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,33 +57,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Josbert\\Desktop\\Practica\\Varios\\Varios.csproj": {
+    "/home/et12alumno/Documentos/Practica/Varios/Varios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josbert\\Desktop\\Practica\\Varios\\Varios.csproj",
+        "projectUniqueName": "/home/et12alumno/Documentos/Practica/Varios/Varios.csproj",
         "projectName": "Varios",
-        "projectPath": "C:\\Users\\Josbert\\Desktop\\Practica\\Varios\\Varios.csproj",
-        "packagesPath": "C:\\Users\\Josbert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josbert\\Desktop\\Practica\\Varios\\obj\\",
+        "projectPath": "/home/et12alumno/Documentos/Practica/Varios/Varios.csproj",
+        "packagesPath": "/home/et12alumno/.nuget/packages/",
+        "outputPath": "/home/et12alumno/Documentos/Practica/Varios/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Josbert\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/et12alumno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -108,11 +89,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -134,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

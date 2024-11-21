@@ -5,13 +5,10 @@ namespace Varios;
 public class Tienda
 {
     private int IdTienda { get; set; }
-    private string Zona { get; set; }
-    List<Vendedor>Vendedores { get; set; }
-    public double Total{ get; private set; } 
-    public Tienda (int IdTienda,string Zona)
+    public List<Vendedor>Vendedores { get; set; }
+    public Tienda (int IdTienda)
     {
         this.IdTienda=IdTienda;
-        this.Zona=Zona;
         Vendedores=new List<Vendedor>();
     }
     public void AddVendedor(Vendedor vendedor)
@@ -22,10 +19,14 @@ public class Tienda
     }
     public void Mostar()
     {
+        System.Console.WriteLine($"Tirnda: {IdTienda}");
         foreach (var item in Vendedores)
-        {   
-            Total+=item.Total;
+        {
+            item.MostarVendedor();
+
         }
-        System.Console.WriteLine($"{Zona}m{Total}");
-    }
+        var mayor=Vendedores.Max(x=>x.Total);
+        var ven=Vendedores.Where(X=>X.Total==mayor);
+        System.Console.WriteLine(mayor);
+    }   
 }
